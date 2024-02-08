@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reza7117
+- 👋 Hi, I’m @RezaDamansabz
 - 👀 I’m interested in application of AI in different fields
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on projects related to Artificial intelligence and it's application in Psychology
